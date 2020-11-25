@@ -9,11 +9,11 @@
         <spatial:adjacentDomains id="Cytosol1_Extracellular0_membrane_Extracellular0" spatial:domain1="Cytosol_Extracellular_membrane1" spatial:domain2="Extracellular0" spatial:id="Cytosol1_Extracellular0_membrane_Extracellular0"/>
       </spatial:listOfAdjacentDomains>
       <spatial:listOfCoordinateComponents>
-        <spatial:coordinateComponent id="coordx" spatial:id="coordx" spatial:type="cartesianX" spatial:unit="um">
+        <spatial:coordinateComponent id="coordx" spatial:id="coordx" spatial:type="cartesianX" spatial:unit="length">
           <spatial:boundaryMin id="Xmin" spatial:id="Xmin" spatial:value="0.0"/>
           <spatial:boundaryMax id="Xmax" spatial:id="Xmax" spatial:value="128.0"/>
         </spatial:coordinateComponent>
-        <spatial:coordinateComponent id="coordy" spatial:id="coordy" spatial:type="cartesianY" spatial:unit="um">
+        <spatial:coordinateComponent id="coordy" spatial:id="coordy" spatial:type="cartesianY" spatial:unit="length">
           <spatial:boundaryMin id="Ymin" spatial:id="Ymin" spatial:value="0.0"/>
           <spatial:boundaryMax id="Ymax" spatial:id="Ymax" spatial:value="127.0"/>
         </spatial:coordinateComponent>
